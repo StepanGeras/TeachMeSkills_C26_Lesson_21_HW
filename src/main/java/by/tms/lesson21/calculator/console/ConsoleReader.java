@@ -13,7 +13,7 @@ public class ConsoleReader {
 		return scanner.nextDouble();
 	}
 
-	public String readBoolean () {
+	public String readEndOperation () {
 		return scanner.next();
 	}
 }

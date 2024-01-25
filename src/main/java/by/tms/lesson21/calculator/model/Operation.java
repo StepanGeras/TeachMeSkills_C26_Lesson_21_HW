@@ -9,6 +9,5 @@ public class Operation {
 	private final double num1;
 	private final double num2;
 	private final String operation;
-	private boolean circle = true;
 	private double result;
 }
